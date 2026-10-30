@@ -1,0 +1,22 @@
+{
+  "wheel_id": 551,
+  "structure": "umbrella",
+  "slug": "roofingcompanysarasota-107",
+  "project": "roof-repair-sarasota-quotes-explained-46e8a5f4a8c5ad67afeca4885",
+  "parent_t1_ref": "roofingcompanysarasota-153",
+  "node_role": "feeder",
+  "money_target": "roofingcompanysarasota.net",
+  "primary_kw": "roof repair sarasota quotes explained",
+  "intended_url": "https://aumedia.neocities.org/roof-repair-sarasota-quotes-explained-46e8a5f4a8c5ad67afeca4885/",
+  "tier": "T2",
+  "writeback_nonce": "4b7ec16990c7d7e0",
+  "links": [
+    {
+      "target_url": "http://roof-repair-sarasota-before-you-start-7646199ba59cd9404d3a85fa4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Roof Repair Sarasota Before You Start: Before You Start",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
